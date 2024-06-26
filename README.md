@@ -138,19 +138,19 @@ This program provides a simple simulation of a coffee vending machine, handling 
 
 
 # Conclusion:-
-1. This coffee machine program effectively simulates the operations of a coffee vending machine. It demonstrates several key programming concepts, such as:
+This coffee machine program effectively simulates the operations of a coffee vending machine. It demonstrates several key programming concepts, such as:
 
-2. Data Management: The use of dictionaries to store menu items and resources provides an efficient way to manage data and access information quickly.
+- **Data Management:** The use of dictionaries to store menu items and resources provides an efficient way to manage data and access information quickly.
 
-3. Conditional Logic: The program uses conditional statements to make decisions based on user input and resource availability, ensuring that the machine operates smoothly and provides appropriate feedback to the user.
+- **Conditional Logic:** The program uses conditional statements to make decisions based on user input and resource availability, ensuring that the machine operates smoothly and provides appropriate feedback to the user.
 
-4. User Interaction: By prompting the user for input and processing coins, the program mimics real-world interactions, enhancing user engagement and providing a realistic experience.
+- **User Interaction:** By prompting the user for input and processing coins, the program mimics real-world interactions, enhancing user engagement and providing a realistic experience.
 
-5. Resource Management: The program keeps track of the resources (water, milk, coffee) and updates their quantities as drinks are made. It also ensures that drinks are only made if there are sufficient resources available.
+- **Resource Management:** The program keeps track of the resources (water, milk, coffee) and updates their quantities as drinks are made. It also ensures that drinks are only made if there are sufficient resources available.
 
-6. Error Handling: The program handles errors gracefully by informing the user when resources are insufficient or when the inserted money is not enough.
+- **Error Handling:** The program handles errors gracefully by informing the user when resources are insufficient or when the inserted money is not enough.
 
-7. Modularity: The use of functions to handle specific tasks (e.g., checking resources, processing coins, making coffee) makes the code modular and easier to maintain and extend.
+- **Modularity:** The use of functions to handle specific tasks (e.g., checking resources, processing coins, making coffee) makes the code modular and easier to maintain and extend.
 
 Overall, this program is a comprehensive example of how to build a small yet functional application that manages resources, processes transactions, and interacts with users. It can be extended further to include more drink options, additional features like refilling resources, or integrating a more sophisticated payment system. This project serves as a practical exercise in combining various programming skills to create a useful and interactive application.
 
